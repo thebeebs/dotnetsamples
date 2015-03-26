@@ -1,6 +1,6 @@
 # .NET Samples
 
-This repo contains samples for several .NET components. Please use them. They are licensed with the MIT license.
+I am changing this readme file.
 
 ## System.Numerics
 
